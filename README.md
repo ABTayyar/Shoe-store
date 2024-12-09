@@ -27,4 +27,4 @@ Open the frontend in your preferred way (e.g., live-server).
 
 
 Credits:
-This project was developed by Abdullah bin nahedh with the help of my amazing colleagues, Abdullrahman Altayar, Nawaf Bin Rayhan Saad Al Omran, and Rayan Alharbi. Special thanks to them for their collaboration and support throughout this project.
+This project was developed by Abdulrahman Altayar with the help of my amazing colleagues, Abdullah bin nahedh, Nawaf Bin Rayhan Saad Al Omran, and Rayan Alharbi. Special thanks to them for their collaboration and support throughout this project.
